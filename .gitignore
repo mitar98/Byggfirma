@@ -1,0 +1,16 @@
+# Project exclude paths
+/byggfirma-backend/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Node
+node_modules/
+dist/
+
+# Backend build
+target/
+
+# Env
+.env
